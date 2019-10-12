@@ -1,4 +1,4 @@
-# findthediamond
+# Scratch Card in Flutter
 
 A new Flutter project.
 
